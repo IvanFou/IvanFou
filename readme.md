@@ -8,7 +8,7 @@
   <img align="left" alt="Ivan's Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />
 </a>  
 
-![Header](https://i.postimg.cc/vBkRZ0KG/Ivan-Garcia-1.gif)
+![Header](https://i.postimg.cc/YSpj6zx6/Ivan-Garcia-4.gif)
 
 # ¿Quien soy yo?  
 - 🎓Soy Estudiante de la Universidad Veracruzana en la carrera de Sistemas Computacionales administrativos
