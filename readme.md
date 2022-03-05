@@ -1,3 +1,5 @@
+![Header](https://i.postimg.cc/YSpj6zx6/Ivan-Garcia-4.gif)
+
 <a href="https://twitter.com/IvanFougerat">
   <img align="left" alt="Ivan Garcia | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
 </a>
@@ -5,12 +7,10 @@
   <img align="left" alt="Ivan's LinkdeIN" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/ivanfou/">
-  <img align="left" alt="Ivan's Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />
+  <img align="left" alt="Ivan's Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" /><br>
 </a>  
 
-![Header](https://i.postimg.cc/YSpj6zx6/Ivan-Garcia-4.gif)
-
-# ¿Quien soy yo?  
+## ¿Quien soy yo?  
 - 🎓Soy Estudiante de la Universidad Veracruzana en la carrera de Sistemas Computacionales administrativos
 - :test_tube: Soy lider del Google Developer Student Clubs UV y Co-Founder del GDSC Latam
 - 🪐 Apasionado por la materia de Astronomia, Android con Kotlin y Desarrollo Web
